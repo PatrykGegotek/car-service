@@ -4,8 +4,8 @@ import car3 from '../images/car3.png'
 
 export default function Gallery() {
     return <>
-        <div className="pl-20">
-            <div className="">
+        <div className="px-5 lg:pl-20 md:pr-0">
+            <div>
                 <div className="pr-1 text-blue-500 font-roboto-condensed">Prezentacja firmy</div>
                 <div className="pr-1 text-3xl font-bebas-neue">Zobacz naszą Galerię zdjęć</div>
                 <div className="pr-1 mt-3 flex text-sm font-roboto-flex">
